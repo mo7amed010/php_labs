@@ -1,0 +1,28 @@
+how to remove specift element from array
+// table ==> multi value associative array ==> header table ==> keys
+
+// forms ==> register   ==> register page , profile page ==> show data
+// form login ==> login page -- >show data of login
+=============>  function
+==> file ==> server ==> login  , register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
